@@ -1,2 +1,2 @@
 def josh
-  puts "Hi, my name is Josh!"
+  puts "Hi, my name is Josh\n"
